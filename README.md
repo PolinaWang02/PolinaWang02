@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there! 👋
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Peoples' Friendship University of Russia (PFUR):
+* Bachelor's degree: 38.03.01 Economy
+* 🎓 Moscow Institute of Physics and Technology:
+* Master's degree: 01.04.02 Applied Mathematics and Informatics
+* 🎓 Fudan University
+* Chinese Language program
 
-<!--
-**PolinaWang02/PolinaWang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Core competencies 💡
+- Tools: Python
+- Skills: 
+    * Mathematical statistics;
+    * Data Preprocessing and Data Analysis;
+    * Machine Learning
 
-Here are some ideas to get you started:
+### 🙌🏻 Contact me
+- [Telegram](https://t.me/lilushka08)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
